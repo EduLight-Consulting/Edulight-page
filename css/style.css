@@ -35,11 +35,15 @@ ul {
   height: 100px;
   width: 1000px;
   background-color: white;
-  background-image: url("../images/weblogo.jpg");
   background-position: left;
   background-repeat: no-repeat;
   z-index: 100;
   background-size: contain;
+}
+
+.img-logo {
+  border-radius: 50%;
+  width: 50px;
 }
 
 li {
