@@ -176,7 +176,7 @@ p {
   border: 1px solid transparent;
 }
 
-img {
+img:not(.img-logo) {
   border-radius: 50%;
   border: 2px solid grey;
 
